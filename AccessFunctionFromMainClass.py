@@ -1,0 +1,2 @@
+from MultiFunctions import MultiFuctions
+MultiFuctions.marriageElig()
